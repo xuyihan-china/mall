@@ -1,4 +1,5 @@
 # supermall
+蘑菇街购物软件，用vue写的，里面有真是数据和借口，学习到了很多
 
 ## Project setup
 ```
